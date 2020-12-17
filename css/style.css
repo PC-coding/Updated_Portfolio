@@ -21,6 +21,7 @@ h4,
 h5,
 h6 {
   color: #1e1e1e;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 a {
@@ -90,7 +91,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  /* background-color: #0078ff; */
 }
 
 .overlay-mf {
@@ -711,7 +712,7 @@ a:hover {
   font-size: 4rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: white !important;
+  color: black;
 }
 
 .education_title {
