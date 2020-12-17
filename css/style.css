@@ -695,6 +695,11 @@ a:hover {
   font-weight: 300;
 }
 
+.project_img {
+  /* height: 100%; */
+  width: 500px;
+}
+
 .skill-mf span {
   color: #4e4e4e;
 }
@@ -792,7 +797,7 @@ a:hover {
 }
 
 .work-img {
-  display: block;
+  display: flex;
   overflow: hidden;
 }
 
