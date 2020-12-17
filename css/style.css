@@ -703,9 +703,23 @@ a:hover {
 .education_d {
   /* justify-content: center; */
   /* align-items: center; */
-  display: block;
   /* margin: 0 0 auto; */
   width: 200%;
+}
+
+.title_education {
+  font-size: 4rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white !important;
+}
+
+.education_title {
+  font-size: 2rem;
+}
+
+.education_text {
+  font-size: 1.5rem;
 }
 
 .skill-mf span {
@@ -777,8 +791,8 @@ a:hover {
 }
 
 .counter-ico .ico-circle {
-  height: 60px;
-  width: 60px;
+  height: 100px;
+  width: 100px;
   line-height: 1.8;
   box-shadow: 0 0 0 10px #cde1f8;
 }
