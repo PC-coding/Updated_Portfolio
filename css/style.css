@@ -700,6 +700,14 @@ a:hover {
   width: 700px;
 }
 
+.education_d {
+  /* justify-content: center; */
+  /* align-items: center; */
+  display: block;
+  /* margin: 0 0 auto; */
+  width: 200%;
+}
+
 .skill-mf span {
   color: #4e4e4e;
 }
