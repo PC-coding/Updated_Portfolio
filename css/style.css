@@ -682,6 +682,17 @@ a:hover {
 
 .about-mf .about-img img {
   margin-left: 10px;
+  /* height: 700px; */
+}
+
+.ezclap{
+  height: 700px;
+  width: 300px !important;
+}
+
+.new11 {
+  font-size: 0.9rem;
+  font-weight: 300;
 }
 
 .skill-mf span {
