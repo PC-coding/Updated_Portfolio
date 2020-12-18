@@ -698,7 +698,7 @@ a:hover {
 
 .project_img {
   /* height: 100%; */
-  width: 700px;
+  width: 250px;
 }
 
 .education_d {
@@ -708,8 +708,14 @@ a:hover {
   /* width: 200%; */
 }
 
+.col-newone {
+  flex: 0 0 50%;
+  max-width: 25%;
+  padding: 10px;
+}
+
 .title_education {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
   color: white;
