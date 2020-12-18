@@ -700,19 +700,6 @@ a:hover {
   width: 250px;
 }
 
-.education_d {
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* margin: 0 0 auto; */
-  /* width: 200%; */
-}
-
-.col-newone {
-  flex: 0 0 50%;
-  max-width: 25%;
-  padding: 10px;
-}
-
 .title_education {
   font-size: 3rem;
   font-weight: bold;
