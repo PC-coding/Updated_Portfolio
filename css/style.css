@@ -695,9 +695,40 @@ a:hover {
   font-weight: 300;
 }
 
+.row1111 {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-items: auto;
+  /* margin-right: -15px;
+  margin-left: -15px; */
+}
+.row1112 {
+  display: flex;
+  /* justify-content: space-evenly; */
+}
+
+.row1113 {
+  display: flex;
+  /* justify-content: space-evenly; */
+
+}
+
+.row1114 {
+  display: flex;
+  /* justify-content: space-evenly; */
+}
+
 .project_img {
   /* height: 100%; */
   width: 100%;
+}
+
+.project_title {
+  font-size: 1rem;
+  text-transform: uppercase;
+  text-align: center;
+  padding: .4rem 0;
 }
 
 .title_education {
@@ -772,6 +803,8 @@ a:hover {
 .service-box .s-description {
   color: #4e4e4e;
 }
+
+
 
 /*======================================
 //--//-->   COUNTER
