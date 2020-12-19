@@ -700,36 +700,36 @@ a:hover {
   flex-wrap: wrap;
   justify-content: center;
   justify-items: auto;
-  /* margin-right: -15px;
-  margin-left: -15px; */
+  grid-template-rows: 200px 200px 200px;
 }
 .row1112 {
   display: flex;
-  /* justify-content: space-evenly; */
+  justify-content: space-between;
+  column-gap: 30px;
 }
 
 .row1113 {
   display: flex;
-  /* justify-content: space-evenly; */
+  justify-content: space-between;
 
 }
 
 .row1114 {
   display: flex;
-  /* justify-content: space-evenly; */
-}
-
-.project_img {
-  /* height: 100%; */
-  width: 100%;
+  justify-content: space-between;
 }
 
 .project_title {
-  font-size: 1rem;
+  font-size: 0.5rem;
   text-transform: uppercase;
   text-align: center;
   padding: .4rem 0;
 }
+
+.project_img {
+  width: 100%;
+}
+
 
 .title_education {
   font-size: 3rem;
