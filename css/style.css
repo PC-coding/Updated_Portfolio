@@ -694,23 +694,23 @@ a:hover {
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  /* max-width: 50rem; */
-  /* width: 100%; */
 }
 #skills-section li {
-  /* float: left; */
+  float: left;
   list-style-type: none;
   margin: 1em 1em;
   text-align: center;
 }
 #skills-section span {
-  /* text-align: center; */
   font-family: 'roboto', 'Helvetica';
   font-weight: bold;
   display: block;
 }
 #skills-section img {
   height: 70px;
+}
+#skills-section * {
+  padding: 0;
 }
 
 
