@@ -720,15 +720,15 @@ a:hover {
 #testimonials {
   color: white;
   /* background-image: url(../img/infinite-loop-02.jpg); */
-  background-size: cover;
+  /* background-size: cover;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 100%; */
   position: relative;
 }
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    /* background-image: url(../img/infinite-loop-02-mobile.jpg); */
   }
 }
 
@@ -772,6 +772,33 @@ a:hover {
   font-style: italic;
   font-size: 1.1rem;
 }
+
+
+@media (max-width: 480px) {
+.tm-gallery-container-2 {
+    max-width: 350px;
+}
+
+@media (max-width: 480px) {
+.tm-gallery-container {
+    max-width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tm-gallery-container {
+    padding-top: 70px;
+    padding-bottom: 120px;
+}
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+}
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
 
 
 
