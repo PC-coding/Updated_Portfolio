@@ -804,11 +804,10 @@ a:hover {
     max-height: 140px;
 }
 
-.tm-media-img-ml-1 { margin-left: 80px;
-                    margin-top: 45px; }
+.tm-media-img-ml-1 { margin-left: 80px; }
 .tm-media-img-ml-2 { margin-left: 120px; }
 .tm-media-img-ml-3 { margin-left: 160px; }
-.tm-timeline-img-wrap { background: url(../img/timeline-connect.png) center repeat-x;  -webkit-tap-highlight-color: transparent;}
+.tm-timeline-img-wrap { background: url(../img/connector.png) center repeat-x; height:5px; -webkit-tap-highlight-color: transparent;}
 
 
 .tm-media-body {
